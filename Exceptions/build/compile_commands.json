@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/Desktop/C++ Class/Exceptions/build",
+  "command": "/usr/bin/c++      -g -I\"/home/tmarks/Desktop/C++ Class/Exceptions/include\"    -o CMakeFiles/output.dir/src/BasicExceptions.cpp.o -c \"/home/tmarks/Desktop/C++ Class/Exceptions/src/BasicExceptions.cpp\"",
+  "file": "/home/tmarks/Desktop/C++ Class/Exceptions/src/BasicExceptions.cpp"
+}
+]

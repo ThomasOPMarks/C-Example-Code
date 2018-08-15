@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/customobjectsasmapvalues.dir/main.cpp.o  -o customobjectsasmapvalues -rdynamic 

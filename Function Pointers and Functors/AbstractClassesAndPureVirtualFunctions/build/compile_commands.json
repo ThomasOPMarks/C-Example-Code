@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/AbstractClassesAndPureVirtualFunctions/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/abstractclassesandpurevirtualfunctions.dir/main.cpp.o -c /home/tmarks/projects/AbstractClassesAndPureVirtualFunctions/main.cpp",
+  "file": "/home/tmarks/projects/AbstractClassesAndPureVirtualFunctions/main.cpp"
+}
+]

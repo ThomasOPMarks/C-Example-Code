@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/multimaps.dir/main.cpp.o  -o multimaps -rdynamic 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tmarks/projects/OverloadingPlus/Complex.h
+iostream
+-
+
+/home/tmarks/projects/OverloadingPlus/main.cpp
+iostream
+-
+Complex.h
+/home/tmarks/projects/OverloadingPlus/Complex.h
+

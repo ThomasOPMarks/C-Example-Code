@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/FunctionPointers/build",
+  "command": "/usr/bin/c++    -g   -std=c++0x -o CMakeFiles/functionpointers.dir/main.cpp.o -c /home/tmarks/projects/FunctionPointers/main.cpp",
+  "file": "/home/tmarks/projects/FunctionPointers/main.cpp"
+}
+]

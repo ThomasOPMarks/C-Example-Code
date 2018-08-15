@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/SortingVectors/build",
+  "command": "/usr/bin/c++    -g   -std=c++0x -o CMakeFiles/sortingvectors.dir/main.cpp.o -c /home/tmarks/projects/SortingVectors/main.cpp",
+  "file": "/home/tmarks/projects/SortingVectors/main.cpp"
+}
+]

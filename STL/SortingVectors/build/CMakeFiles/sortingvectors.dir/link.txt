@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/sortingvectors.dir/main.cpp.o  -o sortingvectors -rdynamic 

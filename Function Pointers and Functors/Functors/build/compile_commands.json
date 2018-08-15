@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/Functors/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/functors.dir/main.cpp.o -c /home/tmarks/projects/Functors/main.cpp",
+  "file": "/home/tmarks/projects/Functors/main.cpp"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/OverloadingPrinting/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/overloadingprinting.dir/main.cpp.o -c /home/tmarks/projects/OverloadingPrinting/main.cpp",
+  "file": "/home/tmarks/projects/OverloadingPrinting/main.cpp"
+}
+]

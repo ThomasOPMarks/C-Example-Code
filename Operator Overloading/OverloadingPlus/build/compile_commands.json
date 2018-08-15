@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tmarks/projects/OverloadingPlus/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/overloadingplus.dir/main.cpp.o -c /home/tmarks/projects/OverloadingPlus/main.cpp",
+  "file": "/home/tmarks/projects/OverloadingPlus/main.cpp"
+},
+{
+  "directory": "/home/tmarks/projects/OverloadingPlus/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/overloadingplus.dir/Complex.cpp.o -c /home/tmarks/projects/OverloadingPlus/Complex.cpp",
+  "file": "/home/tmarks/projects/OverloadingPlus/Complex.cpp"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/CustomObjectsAsKeys/build",
+  "command": "/usr/bin/c++    -g   -std=c++0x -o CMakeFiles/customobjectsaskeys.dir/main.cpp.o -c /home/tmarks/projects/CustomObjectsAsKeys/main.cpp",
+  "file": "/home/tmarks/projects/CustomObjectsAsKeys/main.cpp"
+}
+]

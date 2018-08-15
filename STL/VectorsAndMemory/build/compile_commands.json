@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/VectorsAndMemory/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/vectorsandmemory.dir/main.cpp.o -c /home/tmarks/projects/VectorsAndMemory/main.cpp",
+  "file": "/home/tmarks/projects/VectorsAndMemory/main.cpp"
+}
+]

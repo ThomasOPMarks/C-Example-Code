@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/Maps/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/maps.dir/main.cpp.o -c /home/tmarks/projects/Maps/main.cpp",
+  "file": "/home/tmarks/projects/Maps/main.cpp"
+}
+]

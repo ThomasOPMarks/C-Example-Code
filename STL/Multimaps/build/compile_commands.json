@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/Multimaps/build",
+  "command": "/usr/bin/c++    -g   -std=c++0x -o CMakeFiles/multimaps.dir/main.cpp.o -c /home/tmarks/projects/Multimaps/main.cpp",
+  "file": "/home/tmarks/projects/Multimaps/main.cpp"
+}
+]

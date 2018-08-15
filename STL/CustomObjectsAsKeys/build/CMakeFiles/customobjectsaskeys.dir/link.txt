@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/customobjectsaskeys.dir/main.cpp.o  -o customobjectsaskeys -rdynamic 

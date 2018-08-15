@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/usingfunctionpointers.dir/main.cpp.o  -o usingfunctionpointers -rdynamic 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/StackAndQueues/build",
+  "command": "/usr/bin/c++    -g   -std=c++0x -o CMakeFiles/stackandqueues.dir/main.cpp.o -c /home/tmarks/projects/StackAndQueues/main.cpp",
+  "file": "/home/tmarks/projects/StackAndQueues/main.cpp"
+}
+]

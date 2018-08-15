@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/Sets/build",
+  "command": "/usr/bin/c++    -g   -std=c++0x -o CMakeFiles/sets.dir/main.cpp.o -c /home/tmarks/projects/Sets/main.cpp",
+  "file": "/home/tmarks/projects/Sets/main.cpp"
+}
+]

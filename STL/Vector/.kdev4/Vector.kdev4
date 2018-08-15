@@ -1,0 +1,34 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0c\x00V\x00e\x00c\x00t\x00o\x00r)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/tmarks/Desktop/C++ Class/STL/Vector/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=vector
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=Vector,vector
+Project Target=Vector,vector
+Working Directory=file:///home/tmarks/Desktop/C++ Class/STL/Vector/build/
+isExecutable=false
+
+[Project]
+VersionControlSupport=

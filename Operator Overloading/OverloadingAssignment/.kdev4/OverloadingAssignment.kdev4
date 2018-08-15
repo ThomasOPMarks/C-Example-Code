@@ -1,0 +1,34 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00*\x00O\x00v\x00e\x00r\x00l\x00o\x00a\x00d\x00i\x00n\x00g\x00A\x00s\x00s\x00i\x00g\x00n\x00m\x00e\x00n\x00t)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/tmarks/projects/OverloadingAssignment/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=overloadingassignment
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=OverloadingAssignment,overloadingassignment
+Project Target=OverloadingAssignment,overloadingassignment
+Working Directory=file:///home/tmarks/projects/OverloadingAssignment/build/
+isExecutable=false
+
+[Project]
+VersionControlSupport=
