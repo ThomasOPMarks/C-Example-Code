@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/staticcasts.dir/main.cpp.o  -o staticcasts -rdynamic 

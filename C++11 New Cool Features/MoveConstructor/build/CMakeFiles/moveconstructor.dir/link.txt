@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/moveconstructor.dir/main.cpp.o  -o moveconstructor -rdynamic 

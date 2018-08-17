@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/StaticCasts/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/staticcasts.dir/main.cpp.o -c /home/tmarks/projects/StaticCasts/main.cpp",
+  "file": "/home/tmarks/projects/StaticCasts/main.cpp"
+}
+]

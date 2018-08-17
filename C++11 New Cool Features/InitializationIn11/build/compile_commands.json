@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/InitializationIn11/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/initializationin11.dir/main.cpp.o -c /home/tmarks/projects/InitializationIn11/main.cpp",
+  "file": "/home/tmarks/projects/InitializationIn11/main.cpp"
+}
+]

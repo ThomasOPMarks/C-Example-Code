@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/elisionandoptimization.dir/main.cpp.o  -o elisionandoptimization -rdynamic 

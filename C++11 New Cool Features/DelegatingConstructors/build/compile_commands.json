@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tmarks/projects/DelegatingConstructors/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/delegatingconstructors.dir/main.cpp.o -c /home/tmarks/projects/DelegatingConstructors/main.cpp",
+  "file": "/home/tmarks/projects/DelegatingConstructors/main.cpp"
+}
+]

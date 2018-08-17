@@ -1,0 +1,1 @@
+/home/tmarks/projects/StaticCasts/build/CMakeFiles/staticcasts.dir

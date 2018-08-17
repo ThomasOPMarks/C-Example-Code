@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/initializerlists.dir/main.cpp.o  -o initializerlists -rdynamic 
