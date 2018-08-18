@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/initializationin98.dir/main.cpp.o  -o initializationin98 -rdynamic 

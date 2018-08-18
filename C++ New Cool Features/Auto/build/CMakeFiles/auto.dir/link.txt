@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/auto.dir/main.cpp.o  -o auto -rdynamic 

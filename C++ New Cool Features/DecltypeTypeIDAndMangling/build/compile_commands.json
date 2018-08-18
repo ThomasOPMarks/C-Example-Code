@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/tmarks/projects/DecltypeTypeIDAndMangling/build",
-  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/decltypetypeidandmangling.dir/main.cpp.o -c /home/tmarks/projects/DecltypeTypeIDAndMangling/main.cpp",
-  "file": "/home/tmarks/projects/DecltypeTypeIDAndMangling/main.cpp"
-}
-]

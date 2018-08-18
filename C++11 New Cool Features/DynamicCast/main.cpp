@@ -19,6 +19,7 @@ int main(int argc, char **argv) {
     
     Parent parent;
     Brother brother;
+    Sister sister;
     
     float value = 3.14;
     
@@ -40,6 +41,17 @@ int main(int argc, char **argv) {
         cout << "Bad\n";
     }
     else {cout << "good";}
+    
+    //Reinterpret cast, the crazy one
+    Parent *ppb = &brother;
+    
+    Sister* pbps = dynamic_cast<Sister*> (ppb);
+    if (pbps == nullptr){
+        cout << "Not good sister" << endl;
+    }
+    else{
+        cout << "Good cast" << endl;
+    }
     
     return 0;
 }

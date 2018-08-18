@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/tmarks/projects/Auto/build",
-  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/auto.dir/main.cpp.o -c /home/tmarks/projects/Auto/main.cpp",
-  "file": "/home/tmarks/projects/Auto/main.cpp"
-}
-]
