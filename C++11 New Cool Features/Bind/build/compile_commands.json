@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mmmtastymmm/projects/Bind/build",
+  "command": "/usr/bin/c++     -g   -std=c++11 -o CMakeFiles/bind.dir/main.cpp.o -c /home/mmmtastymmm/projects/Bind/main.cpp",
+  "file": "/home/mmmtastymmm/projects/Bind/main.cpp"
+}
+]

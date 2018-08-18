@@ -1,0 +1,7 @@
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/install.dir
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/list_install_components.dir
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/rebuild_cache.dir
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/sharedpointers.dir
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/install/strip.dir
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/install/local.dir
+/home/mmmtastymmm/projects/SharedPointers/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/sharedpointers.dir/main.cpp.o  -o sharedpointers -rdynamic 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mmmtastymmm/projects/PerfectForwarding/build",
+  "command": "/usr/bin/c++     -g   -std=c++11 -o CMakeFiles/perfectforwarding.dir/main.cpp.o -c /home/mmmtastymmm/projects/PerfectForwarding/main.cpp",
+  "file": "/home/mmmtastymmm/projects/PerfectForwarding/main.cpp"
+}
+]

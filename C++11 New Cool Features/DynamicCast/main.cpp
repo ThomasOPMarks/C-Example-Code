@@ -42,10 +42,11 @@ int main(int argc, char **argv) {
     }
     else {cout << "good";}
     
-    //Reinterpret cast, the crazy one
+    //Reinterpret cast, the crazy one (literally a biniary cast)
+    //  Literally less checking than static cast
     Parent *ppb = &brother;
     
-    Sister* pbps = dynamic_cast<Sister*> (ppb);
+    Sister* pbps = reinterpret_cast<Sister*> (ppb);
     if (pbps == nullptr){
         cout << "Not good sister" << endl;
     }

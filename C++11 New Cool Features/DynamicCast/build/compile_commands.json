@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/home/tmarks/projects/DynamicCast/build",
-  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/dynamiccast.dir/main.cpp.o -c /home/tmarks/projects/DynamicCast/main.cpp",
-  "file": "/home/tmarks/projects/DynamicCast/main.cpp"
+  "directory": "/home/mmmtastymmm/Desktop/C-Example-Code/C++11 New Cool Features/DynamicCast/build",
+  "command": "/usr/bin/c++     -g   -std=c++11 -o CMakeFiles/dynamiccast.dir/main.cpp.o -c \"/home/mmmtastymmm/Desktop/C-Example-Code/C++11 New Cool Features/DynamicCast/main.cpp\"",
+  "file": "/home/mmmtastymmm/Desktop/C-Example-Code/C++11 New Cool Features/DynamicCast/main.cpp"
 }
 ]

@@ -1,0 +1,7 @@
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/install.dir
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/list_install_components.dir
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/rebuild_cache.dir
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/edit_cache.dir
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/uniquepointers.dir
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/install/strip.dir
+/home/mmmtastymmm/projects/UniquePointers/build/CMakeFiles/install/local.dir

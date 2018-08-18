@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mmmtastymmm/projects/UniquePointers/build",
+  "command": "/usr/bin/c++     -g   -std=c++11 -o CMakeFiles/uniquepointers.dir/main.cpp.o -c /home/mmmtastymmm/projects/UniquePointers/main.cpp",
+  "file": "/home/mmmtastymmm/projects/UniquePointers/main.cpp"
+}
+]
